@@ -1,14 +1,16 @@
-# Kleio Signals
+# WeSelf
+
+*(formerly Kleio Signals)*
 
 [Italiano](README.it.md)
 
-Kleio Signals is a human-centered digital wellbeing project that helps people plan their days, notice meaningful patterns, and adjust before everyday overload becomes harder to manage.
+WeSelf is a human-centered digital wellbeing project that helps people plan their days, notice meaningful patterns, and adjust before everyday overload becomes harder to manage.
 
 The project brings together a personal smart agenda, lightweight check-ins, reflective journaling, and professional support views. Its goal is simple: make daily emotional and behavioral signals easier to understand, without turning care into a cold data dashboard.
 
 ## Project State
 
-**Active private prototype.** Kleio Signals currently includes mobile, web, and professional-facing components under active development. This public repository is a high-level showcase only: it does not contain the working source code, internal architecture, sensitive documentation, or business strategy.
+**Active private prototype.** WeSelf currently includes mobile, web, and professional-facing components under active development. This public repository is a high-level showcase only: it does not contain the working source code, internal architecture, sensitive documentation, or business strategy.
 
 The current product focus is user experience, daily planning, personal signals, reflection flows, and responsible support workflows.
 
@@ -23,7 +25,7 @@ The current product focus is user experience, daily planning, personal signals, 
 
 ## Why It Exists
 
-Many people only notice stress, loneliness, anxiety, or burnout after these experiences have already become disruptive. Kleio Signals explores a gentler approach: capturing small signals from daily life and turning them into moments of awareness, adjustment, and connection.
+Many people only notice stress, loneliness, anxiety, or burnout after these experiences have already become disruptive. WeSelf explores a gentler approach: capturing small signals from daily life and turning them into moments of awareness, adjustment, and connection.
 
 The product is not designed to replace clinicians, therapy, diagnosis, or emergency care. It is designed to help people and support networks notice what is changing sooner.
 
@@ -53,7 +55,7 @@ For questions, collaboration, or access to a private demo, please contact the pr
 
 ## Disclaimer
 
-Kleio Signals is not a medical device, diagnostic system, crisis service, or replacement for professional mental health care. If someone is in immediate danger or needs urgent help, they should contact local emergency services or a qualified professional support line.
+WeSelf is not a medical device, diagnostic system, crisis service, or replacement for professional mental health care. If someone is in immediate danger or needs urgent help, they should contact local emergency services or a qualified professional support line.
 
 ## Rights
 

@@ -1,14 +1,16 @@
-# Kleio Signals
+# WeSelf
+
+*(già Kleio Signals)*
 
 [English](README.md)
 
-Kleio Signals è un progetto di benessere digitale centrato sulla persona. Aiuta le persone a organizzare le proprie giornate, riconoscere pattern significativi e adattarsi prima che il sovraccarico quotidiano diventi più difficile da gestire.
+WeSelf è un progetto di benessere digitale centrato sulla persona. Aiuta le persone a organizzare le proprie giornate, riconoscere pattern significativi e adattarsi prima che il sovraccarico quotidiano diventi più difficile da gestire.
 
 Il progetto unisce agenda intelligente personale, check-in leggeri, journaling riflessivo e viste di supporto per professionisti. L'obiettivo è semplice: rendere i segnali emotivi e comportamentali della vita quotidiana più comprensibili, senza trasformare la cura in un freddo pannello di dati.
 
 ## Stato del progetto
 
-**Prototipo privato in sviluppo attivo.** Kleio Signals include attualmente componenti mobile, web e professionali in fase di sviluppo. Questo repository pubblico è solo una presentazione ad alto livello: non contiene il codice sorgente operativo, l'architettura interna, documentazione sensibile o strategia di business.
+**Prototipo privato in sviluppo attivo.** WeSelf include attualmente componenti mobile, web e professionali in fase di sviluppo. Questo repository pubblico è solo una presentazione ad alto livello: non contiene il codice sorgente operativo, l'architettura interna, documentazione sensibile o strategia di business.
 
 Il focus attuale del prodotto riguarda esperienza utente, pianificazione quotidiana, segnali personali, percorsi di riflessione e workflow di supporto responsabili.
 
@@ -23,7 +25,7 @@ Il focus attuale del prodotto riguarda esperienza utente, pianificazione quotidi
 
 ## Perché esiste
 
-Molte persone si accorgono di stress, solitudine, ansia o burnout solo quando queste esperienze sono già diventate destabilizzanti. Kleio Signals esplora un approccio più gentile: raccogliere piccoli segnali dalla vita quotidiana e trasformarli in momenti di consapevolezza, adattamento e connessione.
+Molte persone si accorgono di stress, solitudine, ansia o burnout solo quando queste esperienze sono già diventate destabilizzanti. WeSelf esplora un approccio più gentile: raccogliere piccoli segnali dalla vita quotidiana e trasformarli in momenti di consapevolezza, adattamento e connessione.
 
 Il prodotto non è pensato per sostituire clinici, terapia, diagnosi o servizi di emergenza. È pensato per aiutare le persone e le reti di supporto a notare prima ciò che sta cambiando.
 
@@ -53,7 +55,7 @@ Per domande, collaborazioni o accesso a una demo privata, contattare direttament
 
 ## Disclaimer
 
-Kleio Signals non è un dispositivo medico, un sistema diagnostico, un servizio di crisi o un sostituto dell'assistenza professionale per la salute mentale. Se una persona è in pericolo immediato o ha bisogno di aiuto urgente, dovrebbe contattare i servizi di emergenza locali o una linea di supporto qualificata.
+WeSelf non è un dispositivo medico, un sistema diagnostico, un servizio di crisi o un sostituto dell'assistenza professionale per la salute mentale. Se una persona è in pericolo immediato o ha bisogno di aiuto urgente, dovrebbe contattare i servizi di emergenza locali o una linea di supporto qualificata.
 
 ## Diritti
 

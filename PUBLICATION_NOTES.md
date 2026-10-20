@@ -1,6 +1,6 @@
 # Publication Notes
 
-This repository is intentionally limited to a public-facing overview of Kleio Signals.
+This repository is intentionally limited to a public-facing overview of WeSelf.
 
 It should not include:
 
